@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.evolvecoachingnetwork.co.uk/sitemap.xml
